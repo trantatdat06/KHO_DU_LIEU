@@ -1,4 +1,4 @@
-facility_id,facility_name,facility_type,city,state,latitude,longitude,dock_doors,operating_hours
+﻿facility_id,facility_name,facility_type,city,state,latitude,longitude,dock_doors,operating_hours
 FAC00001,Houston Distribution Center,Cross-Dock,Houston,TX,29.7604,-95.3698,125,24/7
 FAC00002,Kansas City Hub,Cross-Dock,Kansas City,MO,39.0997,-94.5786,33,7AM-7PM
 FAC00003,Charlotte Distribution Center,Distribution Center,Charlotte,NC,35.2271,-80.8431,138,24/7

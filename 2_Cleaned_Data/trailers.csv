@@ -1,4 +1,4 @@
-trailer_id,trailer_number,trailer_type,length_feet,model_year,vin,acquisition_date,status,current_location
+﻿trailer_id,trailer_number,trailer_type,length_feet,model_year,vin,acquisition_date,status,current_location
 TRL00001,4290,Refrigerated,53,2016,1AV889081755621178,2018-05-11,Active,Kansas City
 TRL00002,8848,Dry Van,53,2018,1BU942062588832828,2018-11-24,Active,Kansas City
 TRL00003,6147,Dry Van,53,2022,1AV669057807416326,2019-01-28,Active,Milwaukee

@@ -1,4 +1,4 @@
-incident_id,trip_id,truck_id,driver_id,incident_date,incident_type,location_city,location_state,at_fault_flag,injury_flag,vehicle_damage_cost,cargo_damage_cost,claim_amount,preventable_flag,description
+﻿incident_id,trip_id,truck_id,driver_id,incident_date,incident_type,location_city,location_state,at_fault_flag,injury_flag,vehicle_damage_cost,cargo_damage_cost,claim_amount,preventable_flag,description
 INC00000001,TRIP00036079,TRK00006,DRV00006,2023-04-09 14:00:00,Moving Violation,Columbus,PA,True,False,12629.26,0.0,12629.26,True,Severe incident involving equipment
 INC00000002,TRIP00032462,TRK00084,DRV00006,2023-02-19 11:00:00,Moving Violation,Columbus,NC,False,False,2700.7,14284.24,16984.94,False,Severe incident involving weather
 INC00000003,TRIP00067583,TRK00106,DRV00119,2024-05-20 01:00:00,Customer Complaint,Seattle,OK,True,False,24302.32,0.0,24302.32,True,Minor incident involving traffic
@@ -58,7 +58,7 @@ INC00000056,TRIP00069367,TRK00055,DRV00100,2024-06-11 15:00:00,DOT Violation,Chi
 INC00000057,TRIP00052380,TRK00103,DRV00082,2023-11-05 17:00:00,Moving Violation,Charlotte,TN,True,True,0.0,0.0,0.0,True,Minor incident involving other driver
 INC00000058,TRIP00077372,TRK00024,DRV00127,2024-09-22 04:00:00,DOT Violation,Memphis,MN,True,True,24102.19,0.0,24102.19,False,Minor incident involving other driver
 INC00000059,TRIP00068506,TRK00060,DRV00089,2024-05-29 11:00:00,Equipment Damage,Salt Lake City,NC,True,True,15019.37,0.0,15019.37,True,Minor incident involving equipment
-INC00000060,TRIP00067707,N/A,DRV00101,2024-05-21 07:00:00,Accident,Atlanta,IL,True,False,13414.05,0.0,13414.05,False,Severe incident involving equipment
+INC00000060,TRIP00067707,,DRV00101,2024-05-21 07:00:00,Accident,Atlanta,IL,True,False,13414.05,0.0,13414.05,False,Severe incident involving equipment
 INC00000061,TRIP00079871,TRK00011,DRV00119,2024-10-22 20:00:00,Moving Violation,Salt Lake City,OR,False,False,18400.91,0.0,18400.91,False,Moderate incident involving weather
 INC00000062,TRIP00075973,TRK00001,DRV00141,2024-09-04 21:00:00,DOT Violation,Salt Lake City,WA,False,False,7737.05,0.0,7737.05,True,Minor incident involving other driver
 INC00000063,TRIP00008117,TRK00019,DRV00142,2022-04-17 17:00:00,Equipment Damage,Seattle,CA,True,False,6476.75,43698.11,50174.86,False,Minor incident involving equipment
@@ -84,7 +84,7 @@ INC00000082,TRIP00049352,TRK00012,DRV00013,2023-09-27 18:00:00,Moving Violation,
 INC00000083,TRIP00014340,TRK00007,DRV00033,2022-07-04 02:00:00,Equipment Damage,Dallas,OH,False,False,0.0,8606.98,8606.98,True,Moderate incident involving equipment
 INC00000084,TRIP00081150,TRK00059,DRV00053,2024-11-08 05:00:00,Equipment Damage,Salt Lake City,OR,True,False,0.0,0.0,0.0,False,Minor incident involving equipment
 INC00000085,TRIP00045060,TRK00015,DRV00065,2023-08-03 19:00:00,Accident,Los Angeles,OH,False,False,0.0,0.0,0.0,True,Moderate incident involving traffic
-INC00000086,TRIP00078852,TRK00120,N/A,2024-10-10 15:00:00,DOT Violation,Columbus,WI,False,False,0.0,0.0,0.0,True,Severe incident involving weather
+INC00000086,TRIP00078852,TRK00120,,2024-10-10 15:00:00,DOT Violation,Columbus,WI,False,False,0.0,0.0,0.0,True,Severe incident involving weather
 INC00000087,TRIP00031278,TRK00062,DRV00050,2023-02-04 09:00:00,Customer Complaint,Indianapolis,TX,False,False,0.0,0.0,0.0,False,Minor incident involving traffic
 INC00000088,TRIP00030480,TRK00080,DRV00107,2023-01-26 03:00:00,Customer Complaint,Los Angeles,NC,False,True,12833.93,0.0,12833.93,True,Moderate incident involving equipment
 INC00000089,TRIP00008529,TRK00089,DRV00055,2022-04-20 23:00:00,DOT Violation,Chicago,IL,False,False,4569.66,45853.75,50423.41,False,Severe incident involving equipment
